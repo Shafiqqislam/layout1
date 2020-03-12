@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    overflow: hidden;
+}
+header{
+ background-color: darkcyan;
+}
+header h1{
+    text-align: center;
+    padding: 20px;
+}
+nav{
+background-color: darkgreen;
+}
+nav h1{
+    text-align: center;
+    color: darkorange;
+    padding: 20px;
+}
+aside{
+    background-color: green;
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+article{
+    background-color: dimgray;
+    width: 80%;
+    height: 500px;
+    float: right;
+    text-align: center;
+    color: gainsboro;
+}
+footer{
+    background-color: indigo;
+    text-align: center;
+}
